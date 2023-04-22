@@ -13,7 +13,7 @@ class KanyiqiePlugin(StellarPlayer.IStellarPlayerPlugin):
         self.max_page = ''
         self.pg = ''
         self.wd = ''
-        self.source = []
+        self.source = []https://github.com/Twuter/stellar-kanyiqie
         self.allmovidesdata = {}
         self.mediasize = 18
 
